@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hello! 👋🏻</h1>
+<!-- <h1>Hello! 👋🏻</h1>
 
  👩🏻‍💻 Focused on **web and software development**.
 
  🌱 I’m currently learning **Spring** and **Angular**.
 
-<br />
+<br /> -->
 
 <h3 align="left">Languages and Technologies:</h3>
 <p align="left"> 
