@@ -35,5 +35,6 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.svg" alt="react" width="40" height="40"/> </a>
+ <a href="https://angular.io/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fangular.io%2Fpresskit&psig=AOvVaw3AB8HTgrPQcaJ2PjQM6F0a&ust=1645279636103000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiP17O2ifYCFQAAAAAdAAAAABAD" alt="react" width="40" height="40"/> <a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
