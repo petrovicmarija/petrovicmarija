@@ -19,6 +19,15 @@ Here are some ideas to get you started:
  🌱 I’m currently learning **Spring** and **Angular**.
 
 <br /> -->
+<br>
+
+| ![Marija's github stats](https://github-readme-stats.vercel.app/api?username=petrovicmarija&show_icons=true&theme=tokyonight) | ![Marija's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=petrovicmarija&theme=tokyonight) |
+| --- | --- |
+<!--
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrovicmarija&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=petrovicmarija&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) | -->
+
+
+<br>
 
 <h3 align="left">Technology stack:</h3>
 <p align="left"> 
